@@ -1,0 +1,27 @@
+﻿
+.header
+{
+    width:800px;
+    height:80px;
+    color:brown;
+    text-align:center;
+    background-color:antiquewhite;
+}
+.footer{
+    background-color:blanchedalmond;
+    text-align:center
+}
+.leftMenu{
+    height:500px;
+    background-color:bisque;
+    width:150px;
+}
+.mainContent{
+    height:500px;
+    width:600px;
+    background-color:cadetblue;
+}
+a{
+    display:block;
+    padding:5px;
+}
